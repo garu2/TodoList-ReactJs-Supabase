@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #888;
+  
+}
+#root input {
+  padding: 0.7rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+  font-size: 17px;
+}
+#root ul li span{
+  padding-right: 15px;
+  font-size: 18px;
+}
+#root ul li {
+  margin-bottom: 10px;
+}
+  
